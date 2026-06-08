@@ -1,0 +1,81 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+log/
+
+# =========================
+# Output files (your pipeline)
+# =========================
+outputs/
+output/
+*.json
+*.md
+
+# If you want to keep structure but ignore generated outputs only:
+# outputs/*
+# !outputs/.gitkeep
+
+# =========================
+# Uploaded / processed PDFs
+# (IMPORTANT: prevent large files in git)
+# =========================
+data/uploads/
+data/**/*.pdf
+
+# If you WANT to keep sample PDFs in repo, comment above and use:
+# !data/sample.pdf
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Model / cache files (if ML expands later)
+# =========================
+*.h5
+*.pt
+*.pth
+*.pkl
+*.joblib
