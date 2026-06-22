@@ -232,4 +232,4 @@ All data flows through typed Pydantic models. LLM JSON responses are validated b
 
 ## License
 
-Built for the Cantordust Analytics AI Engineer Assessment. Assessment materials © Cantordust Analytics.
+MIT
