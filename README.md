@@ -1,8 +1,6 @@
 # AI Agentic Compliance Workflow  Review System
 
-> **AI Engineer  — Task 1: China → Nepal Import Compliance**
-
-An AI-powered document intelligence pipeline that analyses manufacturer PDFs, reconciles cross-document inconsistencies, maps coverage to Nepal import review requirements, and generates a professional compliance review draft.
+> **An AI-powered document intelligence pipeline that analyses manufacturer PDFs, reconciles cross-document inconsistencies, maps coverage to Nepal import review requirements, and generates a professional compliance review draft.**
 
 ---
 
