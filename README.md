@@ -58,7 +58,7 @@ Built on **LangGraph** (`StateGraph`) with a typed shared state (`GraphState`) f
 ## Project Structure
 
 ```
-cantordust-nepal-compliance/
+project/
 │
 ├── app/
 │   ├── agents/
